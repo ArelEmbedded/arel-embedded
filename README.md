@@ -65,7 +65,7 @@ If you have any questions, suggestions, or just want to connect with us, you can
 
 - **Email:** contact@areluniversityembeddedsystemsclub.com
 - **Website:** [https://areluniversityembeddedsystemsclub.com](https://areluniversityembeddedsystemsclub.com)
-- **GitHub:** [Arel-Embedded-Systems-Club](https://github.com/Arel-Embedded-Systems-Club)
+- **GitHub:** [Arel-Embedded-Systems-Club](https://github.com/ArelEmbedded)
 - **Twitter:** [@ArelEmbedded](https://twitter.com/ArelEmbedded)
 - **Facebook:** [ArelEmbedded](https://www.facebook.com/ArelEmbedded)
 
